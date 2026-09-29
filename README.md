@@ -15,6 +15,7 @@
 | Redmi Go | `tiare` |
 | Realme 8i | `spaced` |
 | Redmi 9C NFC | `Angelican/Blossom` |
+| Honor 9S | `DUA-LX9` |
 
 > [!NOTE]
 > Some of the custom ROMs can be **ports** or just packaged **GSIs** that can be flashed in TWRP!
